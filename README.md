@@ -1,4 +1,3 @@
-# Web-Store-Nico
 # 🛒 Nico Store
 
 Website toko online sederhana berbasis HTML yang menampilkan berbagai produk dengan tampilan modern dan responsif.
